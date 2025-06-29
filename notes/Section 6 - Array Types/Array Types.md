@@ -1,0 +1,2 @@
+- Arrays can be typed using a type annotation followed by a empty array bracket:
+- `number[]`: for an array of numbers.
